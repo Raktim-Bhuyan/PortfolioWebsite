@@ -1,2 +1,2 @@
 # PortfolioWebsite
-My portfolio website 
+Beginner Friendly portfolio website made using HTML and CSS
