@@ -455,8 +455,8 @@ hr {
 
 @media only screen and (max-width: 500px) {
 
-	#home, #projects, #contact{
-        overflow-x: hidden;
+	#home, #projects, #contact,#education,#achievements,#coding{
+        overflow-x: scroll;
 	}
 	header{
 		background-color: var(--main-header-background);
